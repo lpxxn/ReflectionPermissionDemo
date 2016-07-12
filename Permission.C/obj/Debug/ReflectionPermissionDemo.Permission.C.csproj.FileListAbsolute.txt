@@ -1,0 +1,10 @@
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.C.dll.config
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.C.dll
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.C.pdb
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\ReflectionPermissionDemo.Permission.C.csprojResolveAssemblyReference.cache
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\Permission.C.CForm1.resources
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\Permission.C.CForm2.resources
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\Permission.C.Properties.Resources.resources
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\ReflectionPermissionDemo.Permission.C.csproj.GenerateResource.Cache
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\Permission.C.dll
+E:\mycode\ReflectionPermissionDemo\Permission.C\obj\Debug\Permission.C.pdb

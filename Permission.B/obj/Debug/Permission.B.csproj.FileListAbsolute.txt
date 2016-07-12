@@ -1,0 +1,9 @@
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.B.dll.config
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.B.dll
+E:\mycode\ReflectionPermissionDemo\ReflectionPermissionDemo\bin\Permission.B.pdb
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.csprojResolveAssemblyReference.cache
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.BForm1.resources
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.Properties.Resources.resources
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.csproj.GenerateResource.Cache
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.dll
+E:\mycode\ReflectionPermissionDemo\Permission.B\obj\Debug\Permission.B.pdb
